@@ -24,3 +24,10 @@ Création d’un mini site e-commerce dynamique utilisant HTML, CSS et JavaScrip
 https://fakestoreapi.com/products
 
 ## Captures d’écran
+
+## Page d’accueil
+
+![Accueil](c:\Users\HP\Downloads\Site_ecommerce\capture\Screenshot 2026-05-17 at 16-33-10 Boutique Élégance.png)
+
+![Produit](c:\Users\HP\Downloads\Site_ecommerce\capture\Screenshot 2026-05-17 at 16-32-20 Boutique Élégance.png)
+![Panier] (c:\Users\HP\Downloads\Site_ecommerce\capture\Screenshot 2026-05-17 at 16-32-20 Boutique Élégance.png)
